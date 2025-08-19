@@ -1,6 +1,7 @@
 displayName,userPrincipalName,mailNickname,passwordProfile,accountEnabled,givenName,surname,jobTitle
-Nora Reed,NReed@DataSciDani.onmicrosoft.com,NReed,samplePassword1234$,No,Nora,Reed,General Manager
-Oscar Cook,OCook@DataSciDani.onmicrosoft.com,OCook,samplePassword1234$,No,Oscar,Cook,QA Engineer
-Penny Bell,PBell@DataSciDani.onmicrosoft.com,PBell,samplePassword1234$,No,Penny,Bell,Accounts Payable Clerk
-Quincy Morgan,QMorgan@DataSciDani.onmicrosoft.com,QMorgan,samplePassword1234$,No,Quincy,Morgan,Compensation Analyst
-Rose Murphy,RMurphy@DataSciDani.onmicrosoft.com,RMurphy,samplePassword1234$,No,Rose,Murphy,Inside Sales Rep
+Nora Reed,NReed@Data.onmicrosoft.com,NReed,samplePassword1234$,No,Nora,Reed,General Manager
+Oscar Cook,OCook@Data.onmicrosoft.com,OCook,samplePassword1234$,No,Oscar,Cook,QA Engineer
+Penny Bell,PBell@Data.onmicrosoft.com,PBell,samplePassword1234$,No,Penny,Bell,Accounts Payable Clerk
+Quincy Morgan,QMorgan@Data.onmicrosoft.com,QMorgan,samplePassword1234$,No,Quincy,Morgan,Compensation Analyst
+
+Rose Murphy,RMurphy@Data.onmicrosoft.com,RMurphy,samplePassword1234$,No,Rose,Murphy,Inside Sales Rep
